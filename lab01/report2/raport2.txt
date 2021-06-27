@@ -1,0 +1,144 @@
+Jedna para – krótkie pliki:
+Mergowanie plików:
+real 0.000000
+user 0.000000
+sys  0.000000
+Dodawanie bloku:
+real 0.000000
+user 0.000000
+sys  0.000000
+Usuwanie bloków:
+real 0.000000
+user 0.000000
+sys  0.000000
+10 razy dodanie i usunięcie naprzemiennie:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Jedna para – średnie pliki:
+Mergowanie plików:
+real 0.000000
+user 0.000000
+sys  0.000000
+Dodawanie bloku:
+real 0.000000
+user 0.020000
+sys  0.000000
+Usuwanie bloków:
+real 0.000000
+user 0.000000
+sys  0.000000
+10 razy dodanie i usunięcie naprzemiennie:
+real 0.240000
+user 0.160000
+sys  0.020000
+
+Jedna para – duże pliki:
+Mergowanie plików:
+real 3.150000
+user 0.810000
+sys  1.730000
+Dodawanie bloku:
+real 4.720000
+user 4.300000
+sys  0.430000
+Usuwanie bloków:
+real 0.130000
+user 0.120000
+sys  0.000000
+10 razy dodanie i usunięcie naprzemiennie:
+real 44.010000
+user 38.970000
+sys  5.020000
+
+Dziesięć par – krótkie pliki:
+Mergowanie plików:
+real 0.000000
+user 0.000000
+sys  0.000000
+Dodawanie bloku:
+real 0.000000
+user 0.000000
+sys  0.000000
+Usuwanie bloków:
+real 0.000000
+user 0.000000
+sys  0.000000
+10 razy dodanie i usunięcie naprzemiennie:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dziesięć par – średnie pliki:
+Mergowanie plików:
+real 0.050000
+user 0.000000
+sys  0.040000
+Dodawanie bloku:
+real 0.200000
+user 0.190000
+sys  0.020000
+Usuwanie bloków:
+real 0.010000
+user 0.000000
+sys  0.000000
+10 razy dodanie i usunięcie naprzemiennie:
+real 0.190000
+user 0.180000
+sys  0.000000
+
+Dziesięć par – duże pliki:
+Mergowanie plików:
+real 19.350000
+user 9.650000
+sys  9.670000
+Dodawanie bloku:
+real 52.280000
+user 43.890000
+sys  8.280000
+Usuwanie bloków:
+real 1.320000
+user 1.310000
+sys  0.020000
+10 razy dodanie i usunięcie naprzemiennie:
+real 45.880000
+user 39.430000
+sys  5.910000
+
+Sto par – krótkie pliki:
+Mergowanie plików:
+real 0.000000
+user 0.000000
+sys  0.000000
+Dodawanie bloku:
+real 0.000000
+user 0.000000
+sys  0.000000
+Usuwanie bloków:
+real 0.000000
+user 0.000000
+sys  0.000000
+10 razy dodanie i usunięcie naprzemiennie:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Sto par – średnie pliki:
+Mergowanie plików:
+real 0.490000
+user 0.190000
+sys  0.290000
+Dodawanie bloku:
+real 2.000000
+user 1.760000
+sys  0.240000
+Usuwanie bloków:
+real 0.060000
+user 0.050000
+sys  0.010000
+10 razy dodanie i usunięcie naprzemiennie:
+real 0.190000
+user 0.160000
+sys  0.010000
+

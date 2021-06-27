@@ -1,0 +1,5 @@
+W przypadku wielu producentów i jednego konsumenta, konsument zczytuje wszystko, co ma do dyspozycji w potoku po czym wypisuje tekst do odpowiedniej linii.
+
+W przypadku wielu konsumentów i jednego producenta, któryś z konsumentów "zagarnia" tekst z potoku, dzięki czemu zasób nie ulega zwielokrotnieniu – inni konsumenci nie mają dostępu do "zagarniętego" zasobu.
+
+W przypadku wielu konsumentów i wielu producentów zachodzą dwie sytuacje na raz.

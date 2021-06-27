@@ -1,0 +1,3 @@
+Wnioski:
+1. Dodanie bloku do pamięci RAM trwa dłużej niż mergowanie i zapisywanie do pliku tymczasowego.
+2. Pierwsze dodanie bloku działa dłużej niż kilkukrotne dodanie i zwolnienie bloków pamięci. Zachodzi więc pewna optymalizacja.

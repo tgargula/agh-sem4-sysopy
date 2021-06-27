@@ -1,0 +1,9 @@
+a = cat /etc/passwd
+b = ls -hal | grep ^-
+c = sort -hk5
+d = wc -l
+
+b
+b | c | d
+a | d
+b | c

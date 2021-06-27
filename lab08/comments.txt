@@ -1,0 +1,12 @@
+*** Komentarze do wyników zawartych w pliku: times.txt ***
+
+1. Metoda 'numbers' działa naiwnie – każdy wątek i tak musi przejść
+przez wszystkie wartości, przy czym zmieniać te, które spełniają określony warunek.
+Widać, że metoda działa dłużej dla wszystkich obrazków od metody 'block'.
+Ta druga metoda bazuje na pełnej paralelizacji – wątku nie interesują elementy tablicy,
+które go nie dotyczą. Ponadto nieco łatwiej zapisać ten warunek (dzięki czemu stała
+przy złożoności działania pętli jest zmniejszona).
+
+2. Łączny czas wykonania wszystkich wątków jest mniejszy od sumy czasów wykonania pojedynczych
+wątków (dotyczy przypadku, gdy liczba tworzonych wątków jest większa od 1).
+Wskazuje to na fakt, że obliczenia są przeprowadzane równolegle.

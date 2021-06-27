@@ -1,0 +1,6 @@
+Zauważalnie szybsze jest skorzystanie z biblioteki statycznej – w każdych testach osiągała
+ona wyniki niewiele bądź znacząco lepsze od pozostałych bibliotek.
+Różnica była wyraźniejsza na wyższych poziomach optymalizacji.
+Co ciekawe dodanie 10 razy dużych bloków trwało krócej od dodania jednego dużego bloku
+dla bibliotek dzielonych i dynamicznych. Mogło to być związane z optymalizacją przez
+procesor lub też różnego wykorzystania procesora w tamtym okresie.

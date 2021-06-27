@@ -1,0 +1,114 @@
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510264755968
+Elf: czeka 2 elfów na Mikołaja, 140510222792448
+Elf: czeka 3 elfów na Mikołaja, 140510273148672
+Elf: Wybudzam Mikołaja, 140510273148672
+Elf: Mikołaj rozwiązuje problemy
+Mikołaj: Budzę się...
+Mikołaj: rozwiązuję problemy elfów 140510264755968 140510222792448 140510273148672
+Elf: Czekam na powrót elfów, 140510247970560
+Elf: Czekam na powrót elfów, 140510256363264
+Elf: Czekam na powrót elfów, 140510231185152
+Elf: Czekam na powrót elfów, 140510123521792
+Elf: Czekam na powrót elfów, 140510214399744
+Elf: Czekam na powrót elfów, 140510206007040
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510231185152
+Elf: czeka 2 elfów na Mikołaja, 140510256363264
+Elf: czeka 3 elfów na Mikołaja, 140510214399744
+Elf: Wybudzam Mikołaja, 140510214399744
+Elf: Mikołaj rozwiązuje problemy
+Mikołaj: Budzę się...
+Mikołaj: rozwiązuję problemy elfów 140510231185152 140510256363264 140510214399744
+Elf: Czekam na powrót elfów, 140510247970560
+Elf: Czekam na powrót elfów, 140510206007040
+Elf: Czekam na powrót elfów, 140510123521792
+Elf: Czekam na powrót elfów, 140510239577856
+Renifer: czeka 1 reniferów na Mikołaja, 140510056380160
+Renifer: czeka 2 reniferów na Mikołaja, 140510047987456
+Renifer: czeka 3 reniferów na Mikołaja, 140510098343680
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510247970560
+Elf: czeka 2 elfów na Mikołaja, 140510239577856
+Elf: czeka 3 elfów na Mikołaja, 140510206007040
+Elf: Wybudzam Mikołaja, 140510206007040
+Elf: Mikołaj rozwiązuje problemy
+Elf: Czekam na powrót elfów, 140510123521792
+Mikołaj: Budzę się...
+Mikołaj: rozwiązuję problemy elfów 140510247970560 140510239577856 140510206007040
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510123521792
+Renifer: czeka 4 reniferów na Mikołaja, 140510081558272
+Renifer: czeka 5 reniferów na Mikołaja, 140510089950976
+Renifer: czeka 6 reniferów na Mikołaja, 140510106736384
+Elf: czeka 2 elfów na Mikołaja, 140510273148672
+Elf: czeka 3 elfów na Mikołaja, 140510256363264
+Elf: Wybudzam Mikołaja, 140510256363264
+Elf: Mikołaj rozwiązuje problemy
+Mikołaj: Budzę się...
+Mikołaj: rozwiązuję problemy elfów 140510123521792 140510273148672 140510256363264
+Elf: Czekam na powrót elfów, 140510214399744
+Renifer: czeka 7 reniferów na Mikołaja, 140510064772864
+Elf: Czekam na powrót elfów, 140510222792448
+Renifer: czeka 8 reniferów na Mikołaja, 140510115129088
+Renifer: czeka 9 reniferów na Mikołaja, 140510073165568
+Renifer: wybudzam Mikołaja, 140510073165568
+Elf: Czekam na powrót elfów, 140510247970560
+Elf: Czekam na powrót elfów, 140510231185152
+Mikołaj: Jadę zawieźć prezenty
+Elf: czeka 1 elfów na Mikołaja, 140510214399744
+Elf: czeka 2 elfów na Mikołaja, 140510231185152
+Elf: czeka 3 elfów na Mikołaja, 140510247970560
+Elf: Wybudzam Mikołaja, 140510247970560
+Elf: Mikołaj rozwiązuje problemy
+Elf: Czekam na powrót elfów, 140510222792448
+Elf: Czekam na powrót elfów, 140510239577856
+Elf: Czekam na powrót elfów, 140510206007040
+Elf: Czekam na powrót elfów, 140510273148672
+Mikołaj: rozwiązuję problemy elfów 140510214399744 140510231185152 140510247970560
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510273148672
+Elf: czeka 2 elfów na Mikołaja, 140510222792448
+Elf: czeka 3 elfów na Mikołaja, 140510206007040
+Elf: Wybudzam Mikołaja, 140510206007040
+Elf: Mikołaj rozwiązuje problemy
+Mikołaj: Budzę się...
+Mikołaj: rozwiązuję problemy elfów 140510273148672 140510222792448 140510206007040
+Elf: Czekam na powrót elfów, 140510239577856
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510239577856
+Elf: czeka 2 elfów na Mikołaja, 140510247970560
+Renifer: czeka 1 reniferów na Mikołaja, 140510073165568
+Renifer: czeka 2 reniferów na Mikołaja, 140510081558272
+Elf: czeka 3 elfów na Mikołaja, 140510214399744
+Elf: Wybudzam Mikołaja, 140510214399744
+Elf: Mikołaj rozwiązuje problemy
+Mikołaj: Budzę się...
+Mikołaj: rozwiązuję problemy elfów 140510239577856 140510247970560 140510214399744
+Renifer: czeka 3 reniferów na Mikołaja, 140510115129088
+Elf: Czekam na powrót elfów, 140510273148672
+Mikołaj: Zasypiam
+Elf: czeka 1 elfów na Mikołaja, 140510273148672
+Renifer: czeka 4 reniferów na Mikołaja, 140510106736384
+Renifer: czeka 5 reniferów na Mikołaja, 140510064772864
+Renifer: czeka 6 reniferów na Mikołaja, 140510098343680
+Renifer: czeka 7 reniferów na Mikołaja, 140510089950976
+Renifer: czeka 8 reniferów na Mikołaja, 140510047987456
+Renifer: czeka 9 reniferów na Mikołaja, 140510056380160
+Renifer: wybudzam Mikołaja, 140510056380160
+Mikołaj: Budzę się...
+Mikołaj: Jadę zawieźć prezenty
+Mikołaj: Zasypiam
+Renifer: czeka 1 reniferów na Mikołaja, 140510089950976
+Renifer: czeka 2 reniferów na Mikołaja, 140510098343680
+Renifer: czeka 3 reniferów na Mikołaja, 140510056380160
+Renifer: czeka 4 reniferów na Mikołaja, 140510081558272
+Renifer: czeka 5 reniferów na Mikołaja, 140510064772864
+Renifer: czeka 6 reniferów na Mikołaja, 140510073165568
+Renifer: czeka 7 reniferów na Mikołaja, 140510047987456
+Renifer: czeka 8 reniferów na Mikołaja, 140510115129088
+Renifer: czeka 9 reniferów na Mikołaja, 140510106736384
+Renifer: wybudzam Mikołaja, 140510106736384
+Mikołaj: Budzę się...
+Mikołaj: Jadę zawieźć prezenty
+Mikołaj: Kończę pracę na dzisiaj!

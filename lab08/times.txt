@@ -1,0 +1,912 @@
+File: data/ac-origins.ascii.pgm
+Number of threads: 1
+Method: numbers
+Image size: 1420x670
+
+Thread 0:	0.002423
+Summary:	0.002627
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 1
+Method: block
+Image size: 1420x670
+
+Thread 0:	0.000812
+Summary:	0.001073
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 2
+Method: numbers
+Image size: 1420x670
+
+Thread 0:	0.006555
+Thread 1:	0.006504
+Summary:	0.006746
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 2
+Method: block
+Image size: 1420x670
+
+Thread 0:	0.000382
+Thread 1:	0.000380
+Summary:	0.000626
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 4
+Method: numbers
+Image size: 1420x670
+
+Thread 0:	0.005225
+Thread 1:	0.005452
+Thread 2:	0.005363
+Thread 3:	0.005473
+Summary:	0.005656
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 4
+Method: block
+Image size: 1420x670
+
+Thread 0:	0.000212
+Thread 1:	0.000222
+Thread 2:	0.000219
+Thread 3:	0.000243
+Summary:	0.000598
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 8
+Method: numbers
+Image size: 1420x670
+
+Thread 0:	0.004225
+Thread 1:	0.004219
+Thread 2:	0.004251
+Thread 3:	0.004324
+Thread 4:	0.004325
+Thread 5:	0.004067
+Thread 6:	0.004105
+Thread 7:	0.010049
+Summary:	0.170218
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 8
+Method: block
+Image size: 1420x670
+
+Thread 0:	0.000165
+Thread 1:	0.000241
+Thread 2:	0.000240
+Thread 3:	0.000142
+Thread 4:	0.000160
+Thread 5:	0.000153
+Thread 6:	0.000280
+Thread 7:	0.000296
+Summary:	0.000800
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 16
+Method: numbers
+Image size: 1420x670
+
+Thread 0:	0.003700
+Thread 1:	0.007234
+Thread 2:	0.005925
+Thread 3:	0.003680
+Thread 4:	0.003807
+Thread 5:	0.005460
+Thread 6:	0.005951
+Thread 7:	0.010391
+Thread 8:	0.004253
+Thread 9:	0.010524
+Thread 10:	0.004320
+Thread 11:	0.006701
+Thread 12:	0.008020
+Thread 13:	0.003859
+Thread 14:	0.009066
+Thread 15:	0.003753
+Summary:	0.014469
+
+
+
+File: data/ac-origins.ascii.pgm
+Number of threads: 16
+Method: block
+Image size: 1420x670
+
+Thread 0:	0.000064
+Thread 1:	0.000076
+Thread 2:	0.000066
+Thread 3:	0.000062
+Thread 4:	0.000080
+Thread 5:	0.000107
+Thread 6:	0.000080
+Thread 7:	0.000060
+Thread 8:	0.000608
+Thread 9:	0.000419
+Thread 10:	0.000424
+Thread 11:	0.000237
+Thread 12:	0.000452
+Thread 13:	0.000391
+Thread 14:	0.000072
+Thread 15:	0.000104
+Summary:	0.007076
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 1
+Method: numbers
+Image size: 512x512
+
+Thread 0:	0.000646
+Summary:	0.000863
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 1
+Method: block
+Image size: 512x512
+
+Thread 0:	0.000614
+Summary:	0.000773
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 2
+Method: numbers
+Image size: 512x512
+
+Thread 0:	0.002346
+Thread 1:	0.002117
+Summary:	0.457519
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 2
+Method: block
+Image size: 512x512
+
+Thread 0:	0.000403
+Thread 1:	0.000405
+Summary:	0.000661
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 4
+Method: numbers
+Image size: 512x512
+
+Thread 0:	0.001554
+Thread 1:	0.001590
+Thread 2:	0.001592
+Thread 3:	0.001638
+Summary:	0.002015
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 4
+Method: block
+Image size: 512x512
+
+Thread 0:	0.000259
+Thread 1:	0.000386
+Thread 2:	0.000424
+Thread 3:	0.000410
+Summary:	0.000636
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 8
+Method: numbers
+Image size: 512x512
+
+Thread 0:	0.001189
+Thread 1:	0.001159
+Thread 2:	0.001196
+Thread 3:	0.001190
+Thread 4:	0.001197
+Thread 5:	0.001404
+Thread 6:	0.001423
+Thread 7:	0.001421
+Summary:	0.436821
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 8
+Method: block
+Image size: 512x512
+
+Thread 0:	0.000160
+Thread 1:	0.000178
+Thread 2:	0.000158
+Thread 3:	0.000149
+Thread 4:	0.000173
+Thread 5:	0.000162
+Thread 6:	0.000228
+Thread 7:	0.000163
+Summary:	0.000928
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 16
+Method: numbers
+Image size: 512x512
+
+Thread 0:	0.001049
+Thread 1:	0.001089
+Thread 2:	0.001069
+Thread 3:	0.001030
+Thread 4:	0.001063
+Thread 5:	0.001113
+Thread 6:	0.001656
+Thread 7:	0.001475
+Thread 8:	0.002657
+Thread 9:	0.002693
+Thread 10:	0.001298
+Thread 11:	0.001326
+Thread 12:	0.001173
+Thread 13:	0.001192
+Thread 14:	0.001298
+Thread 15:	0.001077
+Summary:	0.005539
+
+
+
+File: data/baboon.ascii.pgm
+Number of threads: 16
+Method: block
+Image size: 512x512
+
+Thread 0:	0.000042
+Thread 1:	0.000098
+Thread 2:	0.000125
+Thread 3:	0.000130
+Thread 4:	0.000215
+Thread 5:	0.000179
+Thread 6:	0.000133
+Thread 7:	0.000116
+Thread 8:	0.000124
+Thread 9:	0.000116
+Thread 10:	0.000095
+Thread 11:	0.000123
+Thread 12:	0.000163
+Thread 13:	0.000123
+Thread 14:	0.000138
+Thread 15:	0.000144
+Summary:	0.475315
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 1
+Method: numbers
+Image size: 24x7
+
+Thread 0:	0.000001
+Summary:	0.004801
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 1
+Method: block
+Image size: 24x7
+
+Thread 0:	0.000000
+Summary:	0.000155
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 2
+Method: numbers
+Image size: 24x7
+
+Thread 0:	0.000001
+Thread 1:	0.000001
+Summary:	0.000884
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 2
+Method: block
+Image size: 24x7
+
+Thread 0:	0.000000
+Thread 1:	0.000000
+Summary:	0.000253
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 4
+Method: numbers
+Image size: 24x7
+
+Thread 0:	0.000001
+Thread 1:	0.000001
+Thread 2:	0.000001
+Thread 3:	0.000001
+Summary:	0.000382
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 4
+Method: block
+Image size: 24x7
+
+Thread 0:	0.000000
+Thread 1:	0.000000
+Thread 2:	0.000000
+Thread 3:	0.000000
+Summary:	0.000510
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 8
+Method: numbers
+Image size: 24x7
+
+Thread 0:	0.000001
+Thread 1:	0.000001
+Thread 2:	0.000001
+Thread 3:	0.000001
+Thread 4:	0.000001
+Thread 5:	0.000001
+Thread 6:	0.000001
+Thread 7:	0.000001
+Summary:	0.000588
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 8
+Method: block
+Image size: 24x7
+
+Thread 0:	0.000000
+Thread 1:	0.000000
+Thread 2:	0.000000
+Thread 3:	0.000000
+Thread 4:	0.000000
+Thread 5:	0.000000
+Thread 6:	0.000000
+Thread 7:	0.000000
+Summary:	0.000364
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 16
+Method: numbers
+Image size: 24x7
+
+Thread 0:	0.000001
+Thread 1:	0.000001
+Thread 2:	0.000001
+Thread 3:	0.000001
+Thread 4:	0.000001
+Thread 5:	0.000001
+Thread 6:	0.000001
+Thread 7:	0.000001
+Thread 8:	0.000001
+Thread 9:	0.000001
+Thread 10:	0.000001
+Thread 11:	0.000001
+Thread 12:	0.000001
+Thread 13:	0.000001
+Thread 14:	0.000001
+Thread 15:	0.000001
+Summary:	0.004715
+
+
+
+File: data/feep.ascii.pgm
+Number of threads: 16
+Method: block
+Image size: 24x7
+
+Thread 0:	0.000000
+Thread 1:	0.000000
+Thread 2:	0.000000
+Thread 3:	0.000000
+Thread 4:	0.000000
+Thread 5:	0.000000
+Thread 6:	0.000000
+Thread 7:	0.000000
+Thread 8:	0.000000
+Thread 9:	0.000000
+Thread 10:	0.000000
+Thread 11:	0.000000
+Thread 12:	0.000000
+Thread 13:	0.000000
+Thread 14:	0.000000
+Thread 15:	0.000000
+Summary:	0.005361
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 1
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.000842
+Summary:	0.001046
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 1
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000440
+Summary:	0.000627
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 2
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.002549
+Thread 1:	0.002960
+Summary:	0.497153
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 2
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000218
+Thread 1:	0.000220
+Summary:	0.000432
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 4
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.001988
+Thread 1:	0.002785
+Thread 2:	0.002822
+Thread 3:	0.001972
+Summary:	0.003017
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 4
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000233
+Thread 1:	0.000241
+Thread 2:	0.000211
+Thread 3:	0.000231
+Summary:	0.000622
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 8
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.001377
+Thread 1:	0.001388
+Thread 2:	0.001411
+Thread 3:	0.001432
+Thread 4:	0.001373
+Thread 5:	0.001449
+Thread 6:	0.001450
+Thread 7:	0.001787
+Summary:	0.446261
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 8
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000140
+Thread 1:	0.000180
+Thread 2:	0.000141
+Thread 3:	0.000154
+Thread 4:	0.000075
+Thread 5:	0.000057
+Thread 6:	0.000136
+Thread 7:	0.000075
+Summary:	0.476027
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 16
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.002146
+Thread 1:	0.001194
+Thread 2:	0.001898
+Thread 3:	0.002259
+Thread 4:	0.001384
+Thread 5:	0.001948
+Thread 6:	0.001372
+Thread 7:	0.003340
+Thread 8:	0.003446
+Thread 9:	0.002088
+Thread 10:	0.001583
+Thread 11:	0.002448
+Thread 12:	0.003169
+Thread 13:	0.001251
+Thread 14:	0.001556
+Thread 15:	0.001449
+Summary:	0.007572
+
+
+
+File: data/mountain.ascii.pgm
+Number of threads: 16
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000122
+Thread 1:	0.000170
+Thread 2:	0.000176
+Thread 3:	0.000166
+Thread 4:	0.000028
+Thread 5:	0.000081
+Thread 6:	0.000224
+Thread 7:	0.000151
+Thread 8:	0.000051
+Thread 9:	0.000174
+Thread 10:	0.000085
+Thread 11:	0.000046
+Thread 12:	0.000038
+Thread 13:	0.000075
+Thread 14:	0.000052
+Thread 15:	0.000044
+Summary:	0.000845
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 1
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.000810
+Summary:	0.000996
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 1
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000348
+Summary:	0.000560
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 2
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.002504
+Thread 1:	0.002530
+Summary:	0.002710
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 2
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000208
+Thread 1:	0.000213
+Summary:	0.000383
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 4
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.001741
+Thread 1:	0.002039
+Thread 2:	0.002065
+Thread 3:	0.001886
+Summary:	0.002152
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 4
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000194
+Thread 1:	0.000247
+Thread 2:	0.000263
+Thread 3:	0.000241
+Summary:	0.000435
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 8
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.001328
+Thread 1:	0.001377
+Thread 2:	0.001411
+Thread 3:	0.001488
+Thread 4:	0.001610
+Thread 5:	0.001613
+Thread 6:	0.001775
+Thread 7:	0.003649
+Summary:	0.055158
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 8
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000169
+Thread 1:	0.000162
+Thread 2:	0.000153
+Thread 3:	0.000158
+Thread 4:	0.000255
+Thread 5:	0.000127
+Thread 6:	0.000166
+Thread 7:	0.000062
+Summary:	0.001410
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 16
+Method: numbers
+Image size: 640x480
+
+Thread 0:	0.001325
+Thread 1:	0.001327
+Thread 2:	0.001432
+Thread 3:	0.001302
+Thread 4:	0.001288
+Thread 5:	0.001202
+Thread 6:	0.001447
+Thread 7:	0.001212
+Thread 8:	0.001428
+Thread 9:	0.001492
+Thread 10:	0.001468
+Thread 11:	0.001620
+Thread 12:	0.003416
+Thread 13:	0.001768
+Thread 14:	0.001515
+Thread 15:	0.001189
+Summary:	0.007209
+
+
+
+File: data/totem.ascii.pgm
+Number of threads: 16
+Method: block
+Image size: 640x480
+
+Thread 0:	0.000099
+Thread 1:	0.000142
+Thread 2:	0.000127
+Thread 3:	0.000121
+Thread 4:	0.000042
+Thread 5:	0.000097
+Thread 6:	0.000112
+Thread 7:	0.000319
+Thread 8:	0.000032
+Thread 9:	0.000230
+Thread 10:	0.000098
+Thread 11:	0.000026
+Thread 12:	0.000118
+Thread 13:	0.000051
+Thread 14:	0.000106
+Thread 15:	0.000139
+Summary:	0.001219
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 1
+Method: numbers
+Image size: 3840x2160
+
+Thread 0:	0.021967
+Summary:	0.022209
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 1
+Method: block
+Image size: 3840x2160
+
+Thread 0:	0.045885
+Summary:	0.046137
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 2
+Method: numbers
+Image size: 3840x2160
+
+Thread 0:	0.041312
+Thread 1:	0.041332
+Summary:	0.041643
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 2
+Method: block
+Image size: 3840x2160
+
+Thread 0:	0.024417
+Thread 1:	0.023941
+Summary:	0.024600
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 4
+Method: numbers
+Image size: 3840x2160
+
+Thread 0:	0.038706
+Thread 1:	0.039256
+Thread 2:	0.039207
+Thread 3:	0.039572
+Summary:	0.039829
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 4
+Method: block
+Image size: 3840x2160
+
+Thread 0:	0.019311
+Thread 1:	0.013315
+Thread 2:	0.029603
+Thread 3:	0.030640
+Summary:	0.030835
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 8
+Method: numbers
+Image size: 3840x2160
+
+Thread 0:	0.049068
+Thread 1:	0.051853
+Thread 2:	0.036748
+Thread 3:	0.036608
+Thread 4:	0.036684
+Thread 5:	0.037791
+Thread 6:	0.046001
+Thread 7:	0.040858
+Summary:	0.057159
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 8
+Method: block
+Image size: 3840x2160
+
+Thread 0:	0.006569
+Thread 1:	0.006744
+Thread 2:	0.006657
+Thread 3:	0.006516
+Thread 4:	0.006531
+Thread 5:	0.006007
+Thread 6:	0.005992
+Thread 7:	0.006060
+Summary:	0.013762
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 16
+Method: numbers
+Image size: 3840x2160
+
+Thread 0:	0.072793
+Thread 1:	0.085118
+Thread 2:	0.067159
+Thread 3:	0.071555
+Thread 4:	0.072356
+Thread 5:	0.068333
+Thread 6:	0.071033
+Thread 7:	0.063755
+Thread 8:	0.061369
+Thread 9:	0.070802
+Thread 10:	0.047857
+Thread 11:	0.051656
+Thread 12:	0.028009
+Thread 13:	0.028352
+Thread 14:	0.031725
+Thread 15:	0.032001
+Summary:	0.153513
+
+
+
+File: data/witcher.ascii.pgm
+Number of threads: 16
+Method: block
+Image size: 3840x2160
+
+Thread 0:	0.003565
+Thread 1:	0.003536
+Thread 2:	0.003521
+Thread 3:	0.003541
+Thread 4:	0.003489
+Thread 5:	0.003698
+Thread 6:	0.004785
+Thread 7:	0.007210
+Thread 8:	0.003654
+Thread 9:	0.007301
+Thread 10:	0.003697
+Thread 11:	0.008455
+Thread 12:	0.004901
+Thread 13:	0.007275
+Thread 14:	0.003508
+Thread 15:	0.003498
+Summary:	0.012333
+
+
+

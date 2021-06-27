@@ -1,0 +1,5 @@
+Jak można zauważyć, gdy podzielimy zadania na pojedyncze procesy, to program wykonuje się szybciej.
+Jest to związane z tym, że procesy wykonują się jednowątkowo, a różne procesy mogą działać na kilku wątkach.
+Dzięki temu program wykorzystuje więcej możliwości procesora.
+
+Pliki do testów są takie same jak w lab1, więc już ich nie zamieszczam.

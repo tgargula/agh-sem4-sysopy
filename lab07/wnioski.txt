@@ -1,0 +1,4 @@
+Jak można zauważyć semafory pozwalają na synchronizację procesów.
+Zarówno dla N, M < 5 jak i N, M > 5 liczba pizz w piecu ani na stole nie przekraczała 5.
+Pamięć dzielona pozwala na dzielenie zasobów między procesami (jest w tym efektywniejsza od kopiowania), jednak dla prawidłowego, zsynchronizowanego działania potrzebuje semaforów jako składników synchronizujących – jest to szczególnie ważne w przypadku operacji zapisu.
+  

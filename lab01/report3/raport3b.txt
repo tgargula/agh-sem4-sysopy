@@ -1,0 +1,388 @@
+Optymalizacja O0:
+Jedna para – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Jedna para – średnie pliki:
+Statyczna:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Dzielona:
+real 0.040000
+user 0.020000
+sys  0.010000
+
+Dynamiczna:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Jedna para – duże pliki:
+Statyczna:
+real 9.100000
+user 7.490000
+sys  1.550000
+
+Dzielona:
+real 9.960000
+user 8.280000
+sys  1.660000
+
+Dynamiczna:
+real 9.890000
+user 8.310000
+sys  1.550000
+
+Dziesięć par – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dziesięć par – średnie pliki:
+Statyczna:
+real 0.040000
+user 0.020000
+sys  0.000000
+
+Dzielona:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Dynamiczna:
+real 0.040000
+user 0.040000
+sys  0.000000
+
+Dziesięć par – duże pliki:
+Statyczna:
+real 9.000000
+user 7.590000
+sys  1.390000
+
+Dzielona:
+real 9.900000
+user 8.250000
+sys  1.630000
+
+Dynamiczna:
+real 9.920000
+user 8.350000
+sys  1.540000
+
+Sto par – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Sto par – średnie pliki:
+Statyczna:
+real 0.040000
+user 0.020000
+sys  0.010000
+
+Dzielona:
+real 0.050000
+user 0.020000
+sys  0.010000
+
+Dynamiczna:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Optymalizacja O2:
+Jedna para – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Jedna para – średnie pliki:
+Statyczna:
+real 0.030000
+user 0.010000
+sys  0.010000
+
+Dzielona:
+real 0.050000
+user 0.030000
+sys  0.000000
+
+Dynamiczna:
+real 0.040000
+user 0.030000
+sys  0.010000
+
+Jedna para – duże pliki:
+Statyczna:
+real 6.740000
+user 5.130000
+sys  1.590000
+
+Dzielona:
+real 10.010000
+user 8.170000
+sys  1.790000
+
+Dynamiczna:
+real 10.050000
+user 8.240000
+sys  1.790000
+
+Dziesięć par – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dziesięć par – średnie pliki:
+Statyczna:
+real 0.030000
+user 0.020000
+sys  0.000000
+
+Dzielona:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Dynamiczna:
+real 0.050000
+user 0.030000
+sys  0.010000
+
+Dziesięć par – duże pliki:
+Statyczna:
+real 6.630000
+user 5.110000
+sys  1.490000
+
+Dzielona:
+real 9.740000
+user 8.100000
+sys  1.620000
+
+Dynamiczna:
+real 9.720000
+user 8.060000
+sys  1.660000
+
+Sto par – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Sto par – średnie pliki:
+Statyczna:
+real 0.030000
+user 0.010000
+sys  0.000000
+
+Dzielona:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Dynamiczna:
+real 0.050000
+user 0.030000
+sys  0.000000
+
+
+Optymalizacja Os:
+Jedna para – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.010000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Jedna para – średnie pliki:
+Statyczna:
+real 0.040000
+user 0.020000
+sys  0.010000
+
+Dzielona:
+real 0.040000
+user 0.030000
+sys  0.000000
+
+Dynamiczna:
+real 0.040000
+user 0.020000
+sys  0.010000
+
+Jedna para – duże pliki:
+Statyczna:
+real 6.830000
+user 5.330000
+sys  1.480000
+
+Dzielona:
+real 9.900000
+user 8.120000
+sys  1.740000
+
+Dynamiczna:
+real 9.850000
+user 8.080000
+sys  1.740000
+
+Dziesięć par – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dziesięć par – średnie pliki:
+Statyczna:
+real 0.030000
+user 0.010000
+sys  0.010000
+
+Dzielona:
+real 0.040000
+user 0.020000
+sys  0.010000
+
+Dynamiczna:
+real 0.050000
+user 0.020000
+sys  0.010000
+
+Dziesięć par – duże pliki:
+Statyczna:
+real 6.740000
+user 5.280000
+sys  1.430000
+
+Dzielona:
+real 9.750000
+user 8.130000
+sys  1.590000
+
+Dynamiczna:
+real 9.850000
+user 8.210000
+sys  1.610000
+
+Sto par – krótkie pliki:
+Statyczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dzielona:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Dynamiczna:
+real 0.000000
+user 0.000000
+sys  0.000000
+
+Sto par – średnie pliki:
+Statyczna:
+real 0.030000
+user 0.010000
+sys  0.010000
+
+Dzielona:
+real 0.040000
+user 0.030000
+sys  0.010000
+
+Dynamiczna:
+real 0.040000
+user 0.030000
+sys  0.000000
+

@@ -1,0 +1,4 @@
+Wnioski dotyczące programu ex1:
+1. zarówno przy forku jak i execu ustawienia dotyczące sygnałów są dziedziczone
+2. ignorowany sygnał nie jest automatycznie odrzucany, jeśli jest blokowany przez maskę
+3. w przypadku execa, widoczny jest oczekujący sygnał na rodzica (pending), w przypadku forka – przeciwnie.

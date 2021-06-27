@@ -1,0 +1,7 @@
+skladnik1 = cat /etc/passwd | wc -l
+skladnik2 = ls | grep '^a'
+skladnik3 = grep 11
+
+skladnik1 | skladnik3
+skladnik1
+skladnik2
